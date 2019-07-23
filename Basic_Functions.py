@@ -9,10 +9,10 @@ def greet(name):
   return "Hello " + name + "!"
 
 # Calling the function
-# greet("Mohamed")
+# greet("Jessica")
 
 # Call the function and print it to the console
-print(greet("Mohamed"))
+#print(greet("Jessica"))
 
 ###############################################################################
 # 2 Buddy Program: Basic Function
@@ -35,8 +35,8 @@ def personalized_age_check(name, age):
     return "Sorry, " + name + ". You can't vote for another " + str(time_left) + " years."
 
 # Call the function and print tthe result to the console
-# print(personalized_age_check("Zarif", 28))
-# print(personalized_age_check("Marli", 14))
+# print(personalized_age_check("Inari", 28))
+# print(personalized_age_check("Max", 14))
 # print(personalized_age_check("Aaron", 444))
 
 ##############################################################################
